@@ -1,0 +1,44 @@
+body{
+    background-image: url(fundo.png);
+    color: white;
+    font-family: Arial;
+}
+
+#cabeçalho{
+    margin: 0;
+    color: white;
+    text-align: center;
+    padding: 16px;
+}
+
+#corpo{
+    margin: 0;
+    color: white;
+    text-align: left;
+    padding: 16px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+#rodape{
+    margin: 0;
+    color: white;
+    text-align: left;
+    padding: 16px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+#imagem{
+    padding: 16px;
+    margin-left: 24px;
+    margin-right: 24px;
+    float: left;
+}
+
+#texto{
+    padding: 16px;
+    margin-left: 24px;
+    margin-right: 24px;
+    float: none;
+}
